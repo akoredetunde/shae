@@ -395,7 +395,7 @@ form svg{
 
 @media (max-width: 459px){
     .inputs{
-        padding-right: 3rem;
+        padding-right: 2rem;
     }
     form .none{
         display: none;
